@@ -2,3 +2,7 @@ opencv-python
 tensorflow
 keras
 wave
+numpy
+matplotlib
+IPython
+pydub
