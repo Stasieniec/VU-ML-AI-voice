@@ -6,3 +6,4 @@ numpy
 matplotlib
 IPython
 pydub
+scikit-learn
