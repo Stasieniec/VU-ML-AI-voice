@@ -1,0 +1,4 @@
+1. Splitting data into 10 second fragments might be a good idea. 
+2. Dual channel audio is basically free data engineering. 
+3. Classifier - I propose a neural network: CNN -> Dense -> Sigmoid
+4. Technology - Keras would be the easiest. But we don't have to go for the easy option.
