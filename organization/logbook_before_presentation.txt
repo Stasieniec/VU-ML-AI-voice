@@ -1,0 +1,5 @@
+Presentation (from slide 10): https://docs.google.com/presentation/d/1G7WPhg9cjOxlwwLi7552FNRwM2jZpmeE74WJYJOGsdM/edit#slide=id.g2bf3d4db6bb_1_0
+
+1. We are done with data processing
+2. We need some literature 
+3. CNN is probably better than random forest
