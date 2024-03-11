@@ -3,6 +3,7 @@ tensorflow
 keras
 wave
 numpy
+scipy
 matplotlib
 IPython
 pydub
