@@ -8,3 +8,4 @@ matplotlib
 IPython
 pydub
 scikit-learn
+pandas
